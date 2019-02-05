@@ -21,6 +21,9 @@ public class HolaMundo {
         System.out.println("ELCHE CF");
         System.out.println("FC BARCELONA");
         System.out.println("REAL MADRID CF");
+        System.out.println("AS ROMA");
+        System.out.println("AC MILÁN");
+        System.out.println("NAPOLI FC");
     }
     
 }
