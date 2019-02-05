@@ -18,6 +18,9 @@ public class HolaMundo {
         // TODO code application logic here
         System.out.println("Hola Mundo");
         System.out.println("El primer programa en java se llama HolaMundo");
+        System.out.println("ELCHE CF");
+        System.out.println("FC BARCELONA");
+        System.out.println("REAL MADRID CF");
     }
     
 }
